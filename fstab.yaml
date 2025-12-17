@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/seejan-joseph/commerce-edge-calculator/main"
+    url: "https://author-p99952-e1559416.adobeaemcloud.com/bin/franklin.delivery/Seejan-Adobe/commerce-edge-calculator/main"
     type: "markup"
     suffix: ".html"
